@@ -1,0 +1,9 @@
+﻿global using System.Runtime.CompilerServices;
+global using Ardalis.SharedKernel;
+global using FluentAssertions;
+global using FMS.Core.ContributorAggregate;
+global using FMS.UseCases.Contributors.Create;
+global using MediatR;
+global using Microsoft.Extensions.Logging;
+global using NSubstitute;
+global using Xunit;
